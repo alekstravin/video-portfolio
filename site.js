@@ -5,9 +5,7 @@ const indexDialog = byId('index');
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
 const idOf = work => work.url.replace(/\/$/, '').split('/').pop();
 const format = number => String(number).padStart(2, '0');
-const lead = ['DdkEo6iOtiW', 'DdCnkJQOd4I', 'DfFQRcQuZMV', 'DehScMpIcgJ', 'ys2vondPmys', 'DectzJxOuqx'];
-const ordered = [...lead.map(id => works.find(work => idOf(work) === id)).filter(Boolean),
-  ...works.filter(work => !lead.includes(idOf(work)))];
+const ordered = [...works].sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 const themes = ['Все', 'Рецепты', 'Сочетания', 'Познавательные', 'Анонсы', 'Короткие истории', 'Юмор', 'Музыка'];
 const numbers = new Map(ordered.map((work, i) => [work, format(i + 1)]));
 let selection = ordered;

@@ -5,7 +5,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/Db4LKQeyMLR/",
     "theme": "Рецепты",
     "method": "Анимация в Remotion",
-    "group": "1. Рецепты: анимация в Remotion"
+    "group": "1. Рецепты: анимация в Remotion",
+    "publishedAt": "2026-08-10T23:17:20.022+00:00"
   },
   {
     "title": "Грибной суп с пряностями",
@@ -13,7 +14,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DdCnkJQOd4I/",
     "theme": "Рецепты",
     "method": "Анимация в Remotion",
-    "group": "1. Рецепты: анимация в Remotion"
+    "group": "1. Рецепты: анимация в Remotion",
+    "publishedAt": "2026-09-08T21:09:20.121+00:00"
   },
   {
     "title": "Шоколадное суфле",
@@ -21,7 +23,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/Ddy5M_GO1R1/",
     "theme": "Рецепты",
     "method": "Генеративное кино",
-    "group": "2. Рецепты: генеративное гастрономическое кино"
+    "group": "2. Рецепты: генеративное гастрономическое кино",
+    "publishedAt": "2026-09-27T15:07:00.325+00:00"
   },
   {
     "title": "Крем-брюле в атмосфере «Амели»",
@@ -29,7 +32,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DdkEo6iOtiW/",
     "theme": "Рецепты",
     "method": "Генеративное кино",
-    "group": "2. Рецепты: генеративное гастрономическое кино"
+    "group": "2. Рецепты: генеративное гастрономическое кино",
+    "publishedAt": "2026-09-21T20:58:19.805+00:00"
   },
   {
     "title": "Роллы с колбасками — нуарная версия",
@@ -37,7 +41,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DectzJxOuqx/",
     "theme": "Рецепты",
     "method": "Монтажная анимация на AI-иллюстрациях",
-    "group": "1а. Рецепты: монтажная анимация на AI-иллюстрациях"
+    "group": "1а. Рецепты: монтажная анимация на AI-иллюстрациях",
+    "publishedAt": "2026-10-13T20:55:27.675+00:00"
   },
   {
     "title": "Тыквенный суп — «Кошмар перед Рождеством»",
@@ -45,7 +50,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/De-Qbv6u3hU/",
     "theme": "Рецепты",
     "method": "Генеративное кино",
-    "group": "2. Рецепты: генеративное гастрономическое кино"
+    "group": "2. Рецепты: генеративное гастрономическое кино",
+    "publishedAt": "2026-10-26T21:33:02.286+00:00"
   },
   {
     "title": "Черничный пирог из «Твин Пикса»",
@@ -53,7 +59,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DbthzDHuMfn/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-08-06T20:03:29.768+00:00"
   },
   {
     "title": "Брачоле из «Клана Сопрано»",
@@ -61,7 +68,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DcrQ5HtOhbg/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-08-30T19:28:41.395+00:00"
   },
   {
     "title": "Секрет крабсбургера",
@@ -69,7 +77,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DcCA7-wIWDR/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-08-14T19:00:24.505+00:00"
   },
   {
     "title": "Салат из персиков и фенхеля с красным перцем",
@@ -77,7 +86,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DaypZV6qLm2/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-07-14T23:14:41.998+00:00"
   },
   {
     "title": "Салат из арбуза, томатов и феты",
@@ -85,7 +95,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DbEg9qBuhrC/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-07-21T21:47:20.668+00:00"
   },
   {
     "title": "Клубничный стейк-салат",
@@ -93,7 +104,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/Da_J-mOOmny/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-07-19T19:50:17.589+00:00"
   },
   {
     "title": "Летний суп из зелёного лука",
@@ -101,7 +113,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DaopJqaqKXI/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-07-11T02:00:09.230+00:00"
   },
   {
     "title": "Запечённая дорада",
@@ -109,7 +122,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DcWnXS1u4PV/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-08-22T19:00:59.844+00:00"
   },
   {
     "title": "Арбуз на гриле",
@@ -117,7 +131,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DaAkjr2oklD/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-06-25T12:30:23.686+00:00"
   },
   {
     "title": "Слоёные булочки с бри и клубникой",
@@ -125,7 +140,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DaTmwk3u_in/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-07-02T21:55:12.072+00:00"
   },
   {
     "title": "Золотистые цукини к Соаве",
@@ -133,7 +149,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DcmEFymuTVM/",
     "theme": "Рецепты",
     "method": "",
-    "group": "3. Рецепты: ранние AI- и иллюстрированные работы"
+    "group": "3. Рецепты: ранние AI- и иллюстрированные работы",
+    "publishedAt": "2026-08-28T19:00:37.286+00:00"
   },
   {
     "title": "Оранжевое вино: с чем сочетать",
@@ -141,7 +158,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DeKo2iAON6X/",
     "theme": "Сочетания",
     "method": "",
-    "group": "4. Гастрономические сочетания и меню"
+    "group": "4. Гастрономические сочетания и меню",
+    "publishedAt": "2026-10-06T20:25:54.137+00:00"
   },
   {
     "title": "День яйца — вино или пиво?",
@@ -149,7 +167,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DeQ0NAouNOK/",
     "theme": "Сочетания",
     "method": "",
-    "group": "4. Гастрономические сочетания и меню"
+    "group": "4. Гастрономические сочетания и меню",
+    "publishedAt": "2026-10-09T06:00:32.042+00:00"
   },
   {
     "title": "Кариньян: о сорте и сочетаниях",
@@ -157,7 +176,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DfFQRcQuZMV/",
     "theme": "Сочетания",
     "method": "Монтажная анимация на AI-иллюстрациях",
-    "group": "4. Гастрономические сочетания и меню"
+    "group": "4. Гастрономические сочетания и меню",
+    "publishedAt": "2026-10-29T14:46:18.874+00:00"
   },
   {
     "title": "Вино и блюда из тыквы",
@@ -165,7 +185,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DfIesE1uuQL/",
     "theme": "Сочетания",
     "method": "",
-    "group": "4. Гастрономические сочетания и меню"
+    "group": "4. Гастрономические сочетания и меню",
+    "publishedAt": "2026-10-30T20:50:00.388+00:00"
   },
   {
     "title": "Вино и бургеры",
@@ -173,7 +194,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DeuK8keOVyl/",
     "theme": "Сочетания",
     "method": "",
-    "group": "4. Гастрономические сочетания и меню"
+    "group": "4. Гастрономические сочетания и меню",
+    "publishedAt": "2026-10-20T15:37:14.517+00:00"
   },
   {
     "title": "Подаём вино к шашлыкам",
@@ -181,7 +203,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DcMa8u1oAFu/",
     "theme": "Сочетания",
     "method": "",
-    "group": "4. Гастрономические сочетания и меню"
+    "group": "4. Гастрономические сочетания и меню",
+    "publishedAt": "2026-08-18T20:00:06.468+00:00"
   },
   {
     "title": "Способы облегчения похмелья из разных стран — часть 1",
@@ -189,7 +212,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DdXHb6zO7_Y/",
     "theme": "Познавательные",
     "method": "",
-    "group": "5. Познавательные ролики и календарные истории"
+    "group": "5. Познавательные ролики и календарные истории",
+    "publishedAt": "2026-09-16T20:12:38.591+00:00"
   },
   {
     "title": "Способы облегчения похмелья из разных стран — часть 2",
@@ -197,7 +221,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DdrtTdCu6no/",
     "theme": "Познавательные",
     "method": "",
-    "group": "5. Познавательные ролики и календарные истории"
+    "group": "5. Познавательные ролики и календарные истории",
+    "publishedAt": "2026-09-24T20:08:20.830+00:00"
   },
   {
     "title": "Способы облегчения похмелья из разных стран — часть 3",
@@ -205,7 +230,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DeNIyO9uCpw/",
     "theme": "Познавательные",
     "method": "",
-    "group": "5. Познавательные ролики и календарные истории"
+    "group": "5. Познавательные ролики и календарные истории",
+    "publishedAt": "2026-10-07T19:43:25.012+00:00"
   },
   {
     "title": "День шампанского",
@@ -213,7 +239,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/De1_gShuPhz/",
     "theme": "Познавательные",
     "method": "",
-    "group": "5. Познавательные ролики и календарные истории"
+    "group": "5. Познавательные ролики и календарные истории",
+    "publishedAt": "2026-10-23T16:31:11.132+00:00"
   },
   {
     "title": "День стаута",
@@ -221,7 +248,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DfX2A87A3Xc/",
     "theme": "Познавательные",
     "method": "Монтажная анимация на AI-иллюстрациях",
-    "group": "5а. Познавательные ролики — совместная публикация"
+    "group": "5а. Познавательные ролики — совместная публикация",
+    "publishedAt": "2026-11-05T20:02:26.511+00:00"
   },
   {
     "title": "Всемирный день шавермы",
@@ -229,7 +257,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DTha_pwiCjM/",
     "theme": "Короткие истории",
     "method": "",
-    "group": "6. Короткие истории и праздничное генеративное кино"
+    "group": "6. Короткие истории и праздничное генеративное кино",
+    "publishedAt": "2026-01-15T07:02:00.634+00:00"
   },
   {
     "title": "День Балтийского портера",
@@ -237,7 +266,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DTyv1UGCJXs/",
     "theme": "Короткие истории",
     "method": "",
-    "group": "6. Короткие истории и праздничное генеративное кино"
+    "group": "6. Короткие истории и праздничное генеративное кино",
+    "publishedAt": "2026-01-22T00:31:11.333+00:00"
   },
   {
     "title": "С днём пирога!",
@@ -245,7 +275,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DT21PkgCKCQ/",
     "theme": "Короткие истории",
     "method": "",
-    "group": "6. Короткие истории и праздничное генеративное кино"
+    "group": "6. Короткие истории и праздничное генеративное кино",
+    "publishedAt": "2026-01-23T14:35:25.593+00:00"
   },
   {
     "title": "Пельмень-агент / Coming soon…",
@@ -253,7 +284,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DU1XsUoiC6u/",
     "theme": "Короткие истории",
     "method": "",
-    "group": "6. Короткие истории и праздничное генеративное кино"
+    "group": "6. Короткие истории и праздничное генеративное кино",
+    "publishedAt": "2026-02-16T21:29:21.706+00:00"
   },
   {
     "title": "День пельменей",
@@ -261,7 +293,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DU6MKVaCE0Q/",
     "theme": "Короткие истории",
     "method": "",
-    "group": "6. Короткие истории и праздничное генеративное кино"
+    "group": "6. Короткие истории и праздничное генеративное кино",
+    "publishedAt": "2026-02-18T18:24:48.269+00:00"
   },
   {
     "title": "Гастрономическая полиция: карбонара и сливки",
@@ -269,7 +302,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DeV1dVzqEKm/",
     "theme": "Юмор",
     "method": "",
-    "group": "7. Юмор, мемы и короткие скетчи"
+    "group": "7. Юмор, мемы и короткие скетчи",
+    "publishedAt": "2026-10-11T04:47:42.272+00:00"
   },
   {
     "title": "ОтЧАЯнное желание вкусить вина",
@@ -277,7 +311,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/Dd9yBxSK5Lv/",
     "theme": "Юмор",
     "method": "",
-    "group": "7. Юмор, мемы и короткие скетчи"
+    "group": "7. Юмор, мемы и короткие скетчи",
+    "publishedAt": "2026-10-01T20:35:57.181+00:00"
   },
   {
     "title": "Work wine balance",
@@ -285,7 +320,8 @@ const works = [
     "url": "https://www.instagram.com/eno.gastronomia/reel/DdmXsWHOiQl/",
     "theme": "Юмор",
     "method": "",
-    "group": "7. Юмор, мемы и короткие скетчи"
+    "group": "7. Юмор, мемы и короткие скетчи",
+    "publishedAt": "2026-09-22T18:23:18.247+00:00"
   },
   {
     "title": "Пивные мемы от Грока — часть 1",
@@ -293,7 +329,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/Ddrn93Wtb2-/",
     "theme": "Юмор",
     "method": "",
-    "group": "7а. Серия «Пивные мемы от Грока»"
+    "group": "7а. Серия «Пивные мемы от Грока»",
+    "publishedAt": "2026-09-24T19:21:42.534+00:00"
   },
   {
     "title": "Пивные мемы от Грока — часть 2",
@@ -301,7 +338,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DeglyAgtyHA/",
     "theme": "Юмор",
     "method": "",
-    "group": "7а. Серия «Пивные мемы от Грока»"
+    "group": "7а. Серия «Пивные мемы от Грока»",
+    "publishedAt": "2026-10-15T09:02:21.722+00:00"
   },
   {
     "title": "Пивные мемы от Грока — часть 3",
@@ -309,7 +347,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/De-Il6LNlig/",
     "theme": "Юмор",
     "method": "",
-    "group": "7а. Серия «Пивные мемы от Грока»"
+    "group": "7а. Серия «Пивные мемы от Грока»",
+    "publishedAt": "2026-10-26T20:24:31.215+00:00"
   },
   {
     "title": "«Янтарный огонь» — ко Дню пива",
@@ -317,7 +356,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DbwUT8StsjO/",
     "theme": "Музыка",
     "method": "",
-    "group": "8. Музыкальные ролики в гастрономических каналах"
+    "group": "8. Музыкальные ролики в гастрономических каналах",
+    "publishedAt": "2026-08-07T22:03:22.494+00:00"
   },
   {
     "title": "Она танцует под Любэ",
@@ -325,7 +365,8 @@ const works = [
     "url": "https://youtu.be/w-42DOLe-uI",
     "theme": "Музыка",
     "method": "",
-    "group": "Авторские музыкальные проекты — для души"
+    "group": "Авторские музыкальные проекты — для души",
+    "publishedAt": "2026-07-06"
   },
   {
     "title": "День суши!",
@@ -333,7 +374,8 @@ const works = [
     "url": "https://youtu.be/myQEgZrzyxw",
     "theme": "Музыка",
     "method": "",
-    "group": "Авторские музыкальные проекты — для души"
+    "group": "Авторские музыкальные проекты — для души",
+    "publishedAt": "2026-06-18"
   },
   {
     "title": "DAFT POSTPUNK — «Синтетическая зима»",
@@ -341,7 +383,8 @@ const works = [
     "url": "https://youtu.be/ys2vondPmys",
     "theme": "Музыка",
     "method": "",
-    "group": "Авторские музыкальные проекты — для души"
+    "group": "Авторские музыкальные проекты — для души",
+    "publishedAt": "2026-06-24"
   },
   {
     "title": "レフ・レシチェンコ — さようなら (Sayonara / Farewell)",
@@ -349,7 +392,8 @@ const works = [
     "url": "https://youtu.be/1Zpy3kbKf30",
     "theme": "Музыка",
     "method": "",
-    "group": "Авторские музыкальные проекты — для души"
+    "group": "Авторские музыкальные проекты — для души",
+    "publishedAt": "2026-06-08"
   },
   {
     "title": "Карточки в телефоне / стоп-моушен",
@@ -357,7 +401,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/Db0cYWAq2NS/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-08-09T12:30:50.586+00:00"
   },
   {
     "title": "Полароиды с канцелярскими кнопками",
@@ -365,7 +410,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/Db97_RGqmvd/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-08-13T05:00:12.262+00:00"
   },
   {
     "title": "Почтовые открытки / письмо от руки",
@@ -373,7 +419,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DcBepG0qU0o/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-08-14T14:00:44.098+00:00"
   },
   {
     "title": "Паспорта и штампы",
@@ -381,7 +428,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DcGhTfBqKX6/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-08-16T13:00:11.996+00:00"
   },
   {
     "title": "Ретровейв-барокко",
@@ -389,7 +437,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DcUtDipIJQ7/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-08-22T01:12:14.891+00:00"
   },
   {
     "title": "Ресторанное меню / скетчбук",
@@ -397,7 +446,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DcYHfbGhEh5/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-08-23T09:00:58.086+00:00"
   },
   {
     "title": "Винтажные фотокарточки",
@@ -405,7 +455,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DfBCovXI0-R/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-27T23:30:11.975+00:00"
   },
   {
     "title": "Ночная оконная галерея",
@@ -413,7 +464,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/Dd9poMJIUuU/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-01T19:22:33.323+00:00"
   },
   {
     "title": "Лайтбокс / фотоплёнка",
@@ -421,7 +473,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DezwdNtooFZ/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-22T19:41:12.756+00:00"
   },
   {
     "title": "Стеклянные окна macOS",
@@ -429,7 +482,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DeQBUETozWI/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-08T22:35:51.168+00:00"
   },
   {
     "title": "Мультяшный комикс",
@@ -437,7 +491,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DeaCGjEoVqt/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-12T19:55:09.026+00:00"
   },
   {
     "title": "Графический комикс / штриховая рисовка",
@@ -445,7 +500,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DfDpWEqIrWl/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-28T23:46:55.149+00:00"
   },
   {
     "title": "Фломастерные карточки",
@@ -453,7 +509,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DekGy4AIqE1/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-16T17:48:33.625+00:00"
   },
   {
     "title": "Персонажная анимация «Тигр и Собачка»",
@@ -461,7 +518,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/Dera71robMh/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-19T13:59:13.840+00:00"
   },
   {
     "title": "Казино / игровые автоматы",
@@ -469,7 +527,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/De17XT1oZ0H/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-23T15:55:00.420+00:00"
   },
   {
     "title": "«Безумцы» / падающий силуэт",
@@ -477,7 +536,8 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DehScMpIcgJ/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-15T15:32:36.011+00:00"
   },
   {
     "title": "Хэллоуин — пять визуальных миров",
@@ -485,6 +545,7 @@ const works = [
     "url": "https://www.instagram.com/degustationsspb/reel/DfFkbO1oGzb/",
     "theme": "Анонсы",
     "method": "",
-    "group": "Анонсы дегустаций"
+    "group": "Анонсы дегустаций",
+    "publishedAt": "2026-10-29T17:42:24.836+00:00"
   }
 ];

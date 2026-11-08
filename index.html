@@ -3,29 +3,49 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#0055ff">
-<meta name="description" content="Александр Травин. Анимация, моушн-дизайн и генеративное кино. Избранные ролики и фильмография.">
-<title>Александр Травин — видеопортфолио</title>
+<meta name="theme-color" content="#0b0b0b">
+<meta name="description" content="Александр Травин — AI-режиссёр. Галерея работ, от генеративного кино до анимации и моушн-дизайна.">
+<title>Александр Травин — AI-режиссёр</title>
 <link rel="stylesheet" href="style.css">
 <script defer src="works.js"></script>
 <script defer src="site.js"></script>
 </head>
 <body>
-<header class="hero">
-<nav aria-label="Навигация"><a href="#top" id="top">АТ / ВИДЕО</a><a href="#works">Работы</a><a href="#contact">Контакт ↗</a></nav>
-<div class="opening">
-<div class="intro"><p class="label">ПОРТФОЛИО / 2026</p><h1>Александр<br>Травин</h1><p class="lead">Анимация, моушн-дизайн<br>и генеративное кино</p><div class="actions"><a href="#works">Смотреть работы ↓</a><a href="#contact">Обсудить проект ↗</a></div></div>
-<div class="frames" aria-label="Фрагменты избранных работ">
-<figure><video muted loop playsinline preload="none" poster="assets/amelie.jpg" src="assets/amelie.mp4" aria-label="Крем-брюле в атмосфере Амели"></video><figcaption>01 / ГЕНЕРАТИВНОЕ КИНО</figcaption></figure>
-<figure><video muted loop playsinline preload="none" poster="assets/soup.jpg" src="assets/soup.mp4" aria-label="Грибной суп с пряностями"></video><figcaption>02 / АНИМАЦИЯ В REMOTION</figcaption></figure>
-</div>
-</div>
-<div class="herofoot"><span>ИЗБРАННЫЕ ФРАГМЕНТЫ</span><button id="motion" type="button" aria-pressed="false">Воспроизвести ▶</button></div>
+<header class="masthead">
+  <a class="signature" href="./" aria-label="Александр Травин, главная">AT<span>◦</span></a>
+  <span class="edition">НЕЗАВИСИМЫЙ АВТОР / 2026</span>
+  <a class="contact" href="https://www.instagram.com/eno.gastronomia/">Связаться ↗</a>
 </header>
 <main>
-<section id="works"><p class="label">01 / ВЫБОРКА</p><h2>Избранные работы</h2><div id="featured" class="features"></div></section>
-<section id="catalog"><p class="label">02 / АРХИВ</p><h2>Фильмография</h2><div class="filters"><label>Тема<select id="theme"></select></label><label>Техника<select id="method"></select></label><label>Поиск<input type="search" id="query" placeholder="Название ролика"></label></div><p id="count" aria-live="polite"></p><ol id="entries"></ol></section>
-<section id="music"><p class="label">03 / АВТОРСКИЕ ПРОЕКТЫ</p><h2>Для души</h2><div id="personal" class="features"></div></section>
+  <section class="intro" aria-labelledby="title">
+    <p class="eyebrow"><span class="dot"></span> AI-РЕЖИССЁР · МОУШН-ДИЗАЙНЕР</p>
+    <h1 id="title">Александр <span>Травин</span></h1>
+    <p class="intro-note">Генеративное кино<br>и анимация</p>
+  </section>
+  <section class="gallery" aria-label="Галерея фильмов">
+    <div class="gallery-head">
+      <span class="eyebrow">01 / ФИЛЬМОГРАФИЯ</span>
+      <div class="filters" id="filters" aria-label="Темы работ"></div>
+      <button class="index-toggle" id="index-toggle" type="button">Все работы <span>↗</span></button>
+    </div>
+    <div class="carousel" id="carousel" tabindex="0" aria-label="Карусель видео. Для навигации используйте стрелки."></div>
+    <div class="gallery-foot">
+      <div class="caption" aria-live="polite"><span id="active-tag" class="eyebrow"></span><h2 id="active-title"></h2></div>
+      <div class="controls"><span class="counter" id="counter"></span><button id="prev" type="button" aria-label="Предыдущее видео">←</button><button id="next" type="button" aria-label="Следующее видео">→</button></div>
+      <input id="scrub" class="scrub" type="range" min="1" value="1" aria-label="Позиция в карусели">
+    </div>
+  </section>
 </main>
-<footer id="contact"><p class="label">04 / КОНТАКТ</p><h2>Обсудим проект?</h2><a class="contact" href="https://www.instagram.com/eno.gastronomia/">Написать в Instagram ↗</a><p>Александр Травин / 2026</p></footer>
-</body></html>
+<footer class="masthead footer"><span>АЛЕКСАНДР ТРАВИН</span><span>AI FILM / MOTION</span><a href="https://www.instagram.com/eno.gastronomia/">Instagram ↗</a></footer>
+<dialog id="player" aria-labelledby="player-title">
+  <div class="dialog-head"><div><p class="eyebrow" id="player-tag"></p><h2 id="player-title"></h2></div><button type="button" data-close aria-label="Закрыть видео">×</button></div>
+  <div id="screen"></div>
+  <div class="player-footer"><p id="description"></p><a id="original" target="_blank" rel="noopener noreferrer">Открыть оригинал ↗</a></div>
+</dialog>
+<dialog id="index" aria-labelledby="index-title">
+  <div class="dialog-head"><div><p class="eyebrow">01 / ФИЛЬМОГРАФИЯ</p><h2 id="index-title">Все работы</h2></div><button type="button" data-close aria-label="Закрыть список">×</button></div>
+  <label class="search-label" for="search">Поиск по названию</label><input id="search" type="search" placeholder="Например, «Кариньян»">
+  <div id="index-list"></div>
+</dialog>
+</body>
+</html>

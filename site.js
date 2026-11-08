@@ -54,7 +54,7 @@ function showVideo(work) {
   frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
   frame.allowFullscreen = true;
   frame.referrerPolicy = 'strict-origin-when-cross-origin';
-  frame.src = youtube ? 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1'
+  frame.src = youtube ? 'https://www.youtube.com/embed/' + id + '?autoplay=1'
     : 'https://www.instagram.com/reel/' + id + '/embed/';
   byId('screen').replaceChildren(frame);
   player.showModal();

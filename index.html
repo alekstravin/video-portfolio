@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0055ff">
+<meta name="description" content="Александр Травин. Анимация, моушн-дизайн и генеративное кино. Избранные ролики и фильмография.">
+<title>Александр Травин — видеопортфолио</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="works.js"></script>
+<script defer src="site.js"></script>
+</head>
+<body>
+<header class="hero">
+<nav aria-label="Навигация"><a href="#top" id="top">АТ / ВИДЕО</a><a href="#works">Работы</a><a href="#contact">Контакт ↗</a></nav>
+<div class="opening">
+<div class="intro"><p class="label">ПОРТФОЛИО / 2026</p><h1>Александр<br>Травин</h1><p class="lead">Анимация, моушн-дизайн<br>и генеративное кино</p><div class="actions"><a href="#works">Смотреть работы ↓</a><a href="#contact">Обсудить проект ↗</a></div></div>
+<div class="frames" aria-label="Фрагменты избранных работ">
+<figure><video muted loop playsinline preload="none" poster="assets/amelie.jpg" src="assets/amelie.mp4" aria-label="Крем-брюле в атмосфере Амели"></video><figcaption>01 / ГЕНЕРАТИВНОЕ КИНО</figcaption></figure>
+<figure><video muted loop playsinline preload="none" poster="assets/soup.jpg" src="assets/soup.mp4" aria-label="Грибной суп с пряностями"></video><figcaption>02 / АНИМАЦИЯ В REMOTION</figcaption></figure>
+</div>
+</div>
+<div class="herofoot"><span>ИЗБРАННЫЕ ФРАГМЕНТЫ</span><button id="motion" type="button" aria-pressed="false">Воспроизвести ▶</button></div>
+</header>
+<main>
+<section id="works"><p class="label">01 / ВЫБОРКА</p><h2>Избранные работы</h2><div id="featured" class="features"></div></section>
+<section id="catalog"><p class="label">02 / АРХИВ</p><h2>Фильмография</h2><div class="filters"><label>Тема<select id="theme"></select></label><label>Техника<select id="method"></select></label><label>Поиск<input type="search" id="query" placeholder="Название ролика"></label></div><p id="count" aria-live="polite"></p><ol id="entries"></ol></section>
+<section id="music"><p class="label">03 / АВТОРСКИЕ ПРОЕКТЫ</p><h2>Для души</h2><div id="personal" class="features"></div></section>
+</main>
+<footer id="contact"><p class="label">04 / КОНТАКТ</p><h2>Обсудим проект?</h2><a class="contact" href="https://www.instagram.com/eno.gastronomia/">Написать в Instagram ↗</a><p>Александр Травин / 2026</p></footer>
+</body></html>

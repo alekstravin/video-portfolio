@@ -11,7 +11,7 @@ const numbers = new Map(ordered.map((work, i) => [work, format(i + 1)]));
 let selection = ordered;
 let active = 0;
 let ticking = false;
-const archiveVideos = new Set(['DeKo2iAON6X', 'De1_gShuPhz']);
+const archiveVideos = new Set(['DeKo2iAON6X', 'De1_gShuPhz', 'Df_GzcJIinT', 'DdkEo6iOtiW']);
 
 function element(tag, text, className) {
   const node = document.createElement(tag);
@@ -26,6 +26,7 @@ function showVideo(work) {
   byId('player-title').textContent = work.title;
   byId('player-tag').textContent = work.method || work.theme;
   byId('description').textContent = work.description;
+  renderProductionNote(byId('player-production'), id);
   byId('original').href = work.url;
   byId('original').hidden = Boolean(work.originalUnavailable);
   const screen = byId('screen');

@@ -27,6 +27,7 @@ function showVideo(work) {
   byId('player-tag').textContent = work.method || work.theme;
   byId('description').textContent = work.description;
   byId('original').href = work.url;
+  byId('original').hidden = Boolean(work.originalUnavailable);
   const screen = byId('screen');
   if (archiveVideos.has(id)) {
     const video = element('video', '', 'archive-film');
@@ -39,11 +40,14 @@ function showVideo(work) {
     player.showModal();
     return;
   }
-  if (id === 'De-Il6LNlig') {
+  if (id === 'De-Il6LNlig' || work.originalUnavailable) {
     const poster = element('img', '', 'restricted-poster');
     poster.src = 'assets/posters/' + id + '.webp';
     poster.alt = '';
-    screen.replaceChildren(poster, element('p', 'Instagram просит войти в аккаунт для просмотра этой публикации.', 'source-note'));
+    const note = work.originalUnavailable
+      ? 'Оригинальная публикация сейчас недоступна.'
+      : 'Instagram просит войти в аккаунт для просмотра этой публикации.';
+    screen.replaceChildren(poster, element('p', note, 'source-note'));
     player.showModal();
     return;
   }

@@ -235,6 +235,14 @@ dialog::backdrop{background:#000c;backdrop-filter:blur(9px)}
   font-size: 14px;
 }
 
+.case-media figcaption a {
+  display: inline-block;
+  margin-inline-start: .55em;
+  color: var(--white);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .case-pilot {
   max-width: 320px;
   margin-top: 22px;

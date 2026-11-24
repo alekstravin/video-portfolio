@@ -235,6 +235,68 @@ dialog::backdrop{background:#000c;backdrop-filter:blur(9px)}
   font-size: 14px;
 }
 
+.case-pilot {
+  max-width: 320px;
+  margin-top: 22px;
+}
+
+.case-report {
+  grid-column: 1 / -1;
+  min-width: 0;
+  border-block: 1px solid var(--line);
+}
+
+.case-report summary {
+  padding: 14px 0;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.report-content {
+  max-width: 900px;
+  padding: 0 0 18px;
+  font-size: 16px;
+  overflow-wrap: anywhere;
+}
+
+.report-content h3 { margin: 27px 0 10px; }
+.report-content li + li { margin-top: 5px; }
+
+.report-content a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.report-content .table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+}
+
+.report-content table {
+  width: 100%;
+  min-width: 500px;
+  border-collapse: collapse;
+  font-size: 15px;
+  text-align: left;
+}
+
+.report-content th,
+.report-content td {
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+.report-content tbody tr:last-child td { border-bottom: 0; }
+
+.report-content blockquote {
+  margin: 14px 0;
+  padding-left: 16px;
+  border-left: 2px solid var(--line);
+  color: var(--muted);
+}
+
 .production-note {
   margin: 14px 0;
   padding: 12px 0;

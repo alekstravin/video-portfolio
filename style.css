@@ -56,6 +56,7 @@ dialog::backdrop{background:#000c;backdrop-filter:blur(9px)}
 #screen iframe{display:block;border:0;max-width:100%;background:#181818}
 #screen .ig{width:400px;height:min(63dvh,660px)}
 #screen .yt{width:100%;aspect-ratio:16/9}
+#screen .yt.yt-short{width:min(100%,calc(63dvh * 9 / 16));aspect-ratio:9/16}
 .player-footer{font-size:13px;color:var(--muted)}
 .player-footer a{color:white;text-decoration:underline}
 .search-label{display:block;color:var(--muted);margin-bottom:6px}

@@ -52,7 +52,7 @@ function showVideo(work) {
     player.showModal();
     return;
   }
-  const frame = element('iframe', '', youtube ? 'yt' : 'ig');
+  const frame = element('iframe', '', youtube ? (work.format === 'short' ? 'yt yt-short' : 'yt') : 'ig');
   frame.title = work.title;
   frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
   frame.allowFullscreen = true;
